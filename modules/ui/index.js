@@ -49,3 +49,5 @@ export { uiTooltipHtml } from './tooltipHtml';
 export { uiUndoRedo } from './undo_redo';
 export { uiViewOnOSM } from './view_on_osm';
 export { uiZoom } from './zoom';
+
+export { uiEditMenu } from './edit_menu';
